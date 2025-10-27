@@ -1,4 +1,3 @@
-# password-analyser
 # Password Strength Analyzer
 
 ## Project Overview
@@ -37,13 +36,6 @@ This project is ideal for beginners looking to learn **Python, Tkinter, regular 
 2. The program analyzes the password based on length, character variety, and common password checks.
 3. A score out of 7 is calculated and mapped to a strength category.
 4. The application displays the password, score, strength, and **detailed feedback** in the GUI.
-
----
-
-## Screenshots
-
-![Password Strength Analyzer Screenshot](screenshots/sample_screenshot.png)  
-*Screenshot showing password analysis results in the GUI.*
 
 ---
 
